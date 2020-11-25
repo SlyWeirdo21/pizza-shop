@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+body {
+	margin: 0 auto;
+}
+
+h3 {
+	text-align: center;
+}
+
+.home {
+	margin: 0 0 0 50px;
+}
+
+form {
+	margin: 0 0 20px 0;
+}
+
+header {
+	text-align: center;
+	background: #c0c0c0;
+	margin: 0;
+	padding: 1rem; 
+}
+
+footer {
+	text-align: center;
+	background: #c0c0c0;
+	padding: 1rem;
+	margin: 0;
+}
+
+nav {
+	background: #000000;
+}
+
+nav > ul {
+	list-style: none;
+	padding: 1rem;
+	margin: 0;
+}
+
+nav > ul > li {
+	display: inline-block;
+	margin: 0 30px 0 0;
+}
+
+nav > ul > li > a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+pre {
+	text-align: center;
+}
